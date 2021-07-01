@@ -1,6 +1,6 @@
 DHI_ensemblemodels
 
-Metadata for code assosciated with Peterson, K., Barnes, M., Jeynes Smith, C., Baker, C., Gibson, L., Sims, C., Cowen, S., Bode, M. (2020). Reconstructing the historical fauna of a large continental island: a multispecies reintroduction risk analysis. Journal of Applied Ecology.
+Metadata for code assosciated with Peterson, K., Barnes, M., Jeynes Smith, C., Baker, C., Gibson, L., Sims, C., Cowen, S., Bode, M. (2021). Reconstructing the historical fauna of a large continental island: a multispecies reintroduction risk analysis. Journal of Applied Ecology.
 
 Methods: 
 This is the code and data that generates the models and figures used in the manuscript and supplementary documents. 
